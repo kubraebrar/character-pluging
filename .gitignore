@@ -1,0 +1,15 @@
+build/
+.vs/
+out/
+*.dll
+*.exe
+*.obj
+*.pdb
+__pycache__/
+
+
+include/arkheon/
+ICharacterController.h
+
+.vs/
+.vscode/
